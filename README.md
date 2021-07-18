@@ -84,7 +84,7 @@ When you reach the database configuration page, you can use "database" as the ho
 internal DNS and knows that "database" represents one of the services found in the `docker-compose.yaml` file and will
 connect you to the `wordpress_database_1` container.
 
-![WordPress database setup page with credentials filled in](./static/localhost.png)
+![WordPress database setup page with credentials filled in](./static/database.png)
 
 Finally, you can log in and check the WordPress Site Health tool to ensure all the PHP requirements are met.
 
