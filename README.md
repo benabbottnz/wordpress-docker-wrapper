@@ -1,6 +1,8 @@
-# WordPress Docker Wrapper
+<h1 style="text-align: center">WordPress Docker Wrapper</h1>
 
-Just enough code to run a copy of WordPress with Docker.
+<p style="text-align: center">Just enough code to run a copy of WordPress with Docker.</p>
+
+<p style="text-align: center"><img src="https://img.shields.io/github/license/benabbottnz/wordpress-docker-wrapper" alt="Icon that indicates this project uses the MIT license"></p>
 
 ## How to use
 
