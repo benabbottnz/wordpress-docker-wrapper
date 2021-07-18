@@ -74,7 +74,7 @@ f862efb26   wordpress_server     "docker-ph…"   1 second ago   Up 1 second   0
 eb2f49043   wordpress_database   "docker-en…"   1 second ago   Up 1 second   0.0.0.0:3306->3306/tcp   wordpress_database_1
 ```
 
-Step 4: Install WordPress
+## Step 4: Install WordPress
 
 You should be able to access WordPress via `http://localhost` in your web browser.
 
