@@ -10,7 +10,7 @@ services:
     sysctls:
       net.ipv4.ip_unprivileged_port_start: 0
     volumes:
-        - ./src:/var/www/html
+      - ./src:/var/www/html
 
   database:
     build: ./dockerfiles/mariadb-10.6
