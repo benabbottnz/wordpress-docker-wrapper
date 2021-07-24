@@ -8,11 +8,10 @@
 
 ### Step 1: Download the WordPress Docker Wrapper
 
-Click the
-[![Use this template](./static/use-this-template.png)](https://github.com/benabbottnz/wordpress-docker-wrapper/generate)
-button so that you have your own copy on GitHub. You could call it `username/my-website` if you wanted.
+Click the "[Use this template](https://github.com/benabbottnz/wordpress-docker-wrapper/generate)" button at the
+top of this repository so that you have your own copy on GitHub.
 
-Now you can download your `my-website` project to your computer and continue with the steps below.
+You could call it `username/my-website` if you want. Now you can download your `my-website` project to your computer and continue with the steps below.
 
 ### Step 2: Prepare the .env file
 
